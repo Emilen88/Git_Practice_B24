@@ -7,4 +7,7 @@ public class Second {
     public void man(int a){
 
     }
+    public void m(String s){
+
+    }
 }
